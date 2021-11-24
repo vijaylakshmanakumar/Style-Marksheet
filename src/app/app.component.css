@@ -1,0 +1,13 @@
+.studentInfo {
+  width: 500px;
+  border-collapse: collapse;
+}
+
+.studentInfo td {
+  border: 1px solid black;
+}
+
+.header {
+  text-align: center;
+  font-weight: bolder;
+}
